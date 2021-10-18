@@ -8,7 +8,7 @@ The purpose of this project was to build a CMS-style blog site similar to a Word
 
 Repository Link: https://github.com/zavaletaosv/Tech-Blog
 
-Deployed Website Link: 
+Deployed Website Link: https://tech-blog-oz.herokuapp.com/
 ## Usage
 
 Once deployed, the application appears as the image attached below on a traditional desktop.
