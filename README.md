@@ -6,7 +6,7 @@ The purpose of this project was to build a CMS-style blog site similar to a Word
 
 ## Links
 
-Repository Link: 
+Repository Link: https://github.com/zavaletaosv/Tech-Blog
 
 Deployed Website Link: 
 ## Usage
